@@ -12,7 +12,7 @@
   "dependencies": {
     "@astrojs/check": "^0.5.1",
     "@builder.io/qwik": "^1.4.4",
-    "@qwikdev/astro": "^0.5.2",
+    "@qwikdev/astro": "^0.5.7",
     "astro": "^4.3.5",
     "typescript": "^5.3.3"
   }
